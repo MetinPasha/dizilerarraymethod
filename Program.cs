@@ -61,7 +61,7 @@ class Program
             Console.WriteLine(sayi);
         }
 
-        int[] dizi = new int[15];
+        
 
     }
 }

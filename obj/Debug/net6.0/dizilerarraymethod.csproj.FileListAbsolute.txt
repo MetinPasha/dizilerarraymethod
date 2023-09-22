@@ -1,0 +1,14 @@
+D:\Sites\dizilerarraymethod\bin\Debug\net6.0\dizilerarraymethod.exe
+D:\Sites\dizilerarraymethod\bin\Debug\net6.0\dizilerarraymethod.deps.json
+D:\Sites\dizilerarraymethod\bin\Debug\net6.0\dizilerarraymethod.runtimeconfig.json
+D:\Sites\dizilerarraymethod\bin\Debug\net6.0\dizilerarraymethod.dll
+D:\Sites\dizilerarraymethod\bin\Debug\net6.0\dizilerarraymethod.pdb
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.AssemblyInfoInputs.cache
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.AssemblyInfo.cs
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.csproj.CoreCompileInputs.cache
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.dll
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\refint\dizilerarraymethod.dll
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.pdb
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\dizilerarraymethod.genruntimeconfig.cache
+D:\Sites\dizilerarraymethod\obj\Debug\net6.0\ref\dizilerarraymethod.dll
